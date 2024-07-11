@@ -21,7 +21,7 @@ public class biografia extends JFrame {
     public void iniciar() {
         setVisible(true);
         setLocationRelativeTo(null);
-        setSize(300, 400);
+        setSize(500, 600);
         // para cerrar
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
     }

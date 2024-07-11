@@ -37,8 +37,8 @@ public class login extends JFrame {
     public void iniciar() {
         setVisible(true);
         setLocationRelativeTo(null);
-        setSize(300, 400);
-        // para cerrrrar
+        setSize(500, 600);
+        // para cerrar
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
     }
 }
